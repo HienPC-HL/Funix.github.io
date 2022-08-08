@@ -4,6 +4,7 @@ Assignment 02 Stater
 ├─ css
 │  ├─ font.css
 │  └─ style.css
+    https://raw.githubusercontent.com/HienPC-HL/Funix.github.io/main/css/tablet.css
 ├─ fonts
 │  ├─ OpenSans-Italic-webfont.eot
 │  ├─ OpenSans-Italic-webfont.svg
