@@ -6,6 +6,7 @@
 .container-fluid {
   padding: 0 !important;
   margin: 0 !important;
+  margin-left:3%;
 }
 
 .img-container {
