@@ -2,10 +2,14 @@
 [class*="col-"] {
   width: 100%;
 }
-
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .container-fluid {
-  padding: 0 !important;
-  margin: 0 3% !important;
+  padding: 0;
+  margin:0 8%;
 }
 
 .img-container {
